@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Atharva20055
 - 👀 I’m interested in cloud , web-development, security ,editing 
-- 🌱 I’m currently learning python , computer network , DSA (C)
-- 💞️ I’m looking to collaborate on project for client (editing , development , analysis)
+- 🌱 I’m currently learning LLM, computer network , DSA (C++)
+- 💞️ I’m looking to collaborate on project for client (Development , analysis)
 - 📫 How to reach me @gujaratatharva@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
